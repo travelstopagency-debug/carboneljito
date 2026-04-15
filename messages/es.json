@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Carbón El Jito",
+    "subtitle": "Carbón Vegetal Premium de México",
+    "cta": "Ver Productos"
+  },
+  "products": {
+    "title": "Nuestros Productos",
+    "description": "Calidad premium para asadores y restaurantes"
+  },
+  "sales": {
+    "title": "Ventas al Público",
+    "address": "Av. Ejemplo 123, Monterrey, NL",
+    "phone": "81 4285 0579",
+    "whatsapp": "Contactar por WhatsApp"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados"
+  }
+}

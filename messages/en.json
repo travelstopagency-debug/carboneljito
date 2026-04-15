@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Carbón El Jito",
+    "subtitle": "Premium Vegetable Charcoal from Mexico",
+    "cta": "View Products"
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "Premium quality for grills and restaurants"
+  },
+  "sales": {
+    "title": "Public Sales",
+    "address": "Av. Ejemplo 123, Monterrey, NL",
+    "phone": "81 4285 0579",
+    "whatsapp": "Contact via WhatsApp"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
