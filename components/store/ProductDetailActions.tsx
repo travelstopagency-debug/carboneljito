@@ -16,6 +16,7 @@ export default function ProductDetailActions({ product }: ProductDetailActionsPr
   const [quantity, setQuantity] = useState(1);
   const addItem = useCartStore((store) => store.addItem);
   const t = useTranslations("cart");
+  const tStore = useTranslations("store");
 
   return (
     <div className="space-y-4">
@@ -42,7 +43,7 @@ export default function ProductDetailActions({ product }: ProductDetailActionsPr
         </div>
       </div>
       <Button onClick={() => addItem(product, quantity)} type="button">
-        Agregar al carrito
+        {tStore("addToCart")}
       </Button>
     </div>
   );
