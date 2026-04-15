@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "quienesSomos": "Quiénes somos",
+    "tienda": "Tienda",
+    "contacto": "Contacto",
+    "politicaPrivacidad": "Política de privacidad",
+    "carrito": "Carrito"
+  },
+  "home": {
+    "hero": {
+      "subtitle": "CARBÓN VEGETAL",
+      "tagline": "La mejor calidad para tu parrilla"
+    },
+    "retailers": {
+      "title": "Disponible en:"
+    },
+    "products": {
+      "title": "Nuestros Productos",
+      "description": "Carbón El Jito se destaca por ofrecer productos de parrilla de alta calidad, como carbón, briquetas, astillas, iniciador de fuego como el Ocote y potentes productos de limpieza para la parrilla, con el fin de garantizar que cada experiencia de parrilla sea excepcional y sin complicaciones.",
+      "viewProduct": "Ver producto",
+      "addToCart": "Agregar al carrito"
+    },
+    "sales": {
+      "title": "Ventas al Público",
+      "description": "Los productos para asar de Carbón El Jito se pueden encontrar en supermercados de toda la república, como Soriana, AL SUPER, Casa Ley y MercadoLibre. También ofrecemos ventas al público a precios con descuento. Ya sea una compra individual o al por mayor, pueden contactarnos o visitar la siguiente dirección para puntos de venta directos de Carbón El Jito.",
+      "phone": "Teléfono",
+      "address": "Dirección",
+      "contact": "Contáctanos",
+      "phoneNumber": "8142850579",
+      "addressLine1": "Carretera a Reynosa #216",
+      "addressLine2": "Colonia Nuevo León",
+      "addressLine3": "Guadalupe N.L."
+    }
+  },
+  "about": {
+    "title": "Quiénes Somos",
+    "p1": "Nuestra compañía se especializa en la fabricación y distribución de productos de madera, tales como carbón vegetal, briquetas de mezquite, leña de mezquite e iniciadores de fuego como el ocote. Con más de una década de experiencia, hemos brindado nuestros servicios a diversas tiendas y negocios locales, así como a cadenas de supermercados a nivel nacional. Nos enorgullecemos de ofrecer productos de la más alta calidad para garantizar la satisfacción de nuestros clientes.",
+    "p2": "La calidad de nuestros productos es una de nuestras principales prioridades. Nos aseguramos de utilizar materias primas de primera calidad y de seguir estrictos estándares de producción para garantizar la excelencia en cada uno de nuestros artículos. Nuestro compromiso con la calidad nos ha permitido mantener relaciones sólidas con nuestros clientes a lo largo de los años, y seguimos esforzándonos por superar sus expectativas en todo momento.",
+    "p3": "Además de nuestra dedicación a la calidad, también nos esforzamos por ofrecer un servicio excepcional a nuestros clientes. Nuestro equipo está comprometido con la atención al cliente y se esfuerza por brindar asesoramiento experto y soluciones personalizadas para satisfacer las necesidades individuales de cada cliente. Estamos orgullosos de nuestra reputación como proveedores confiables y estamos comprometidos a seguir siendo líderes en la industria de productos maderables."
+  },
+  "store": {
+    "title": "Tienda",
+    "searchPlaceholder": "Buscar productos...",
+    "categories": {
+      "all": "Todos",
+      "carbon": "Carbón",
+      "briquetas": "Briquetas",
+      "iniciadores": "Iniciadores",
+      "limpieza": "Limpieza"
+    },
+    "addToCart": "Agregar al carrito",
+    "viewDetails": "Ver detalles",
+    "noResults": "No se encontraron productos.",
+    "inStock": "En stock",
+    "outOfStock": "Agotado",
+    "related": "Productos relacionados"
+  },
+  "cart": {
+    "title": "Carrito",
+    "empty": "Tu carrito está vacío",
+    "emptyDesc": "Agrega productos para comenzar tu pedido.",
+    "continueShopping": "Continuar comprando",
+    "subtotal": "Subtotal",
+    "orderViaWhatsapp": "Ordenar por WhatsApp",
+    "remove": "Eliminar",
+    "quantity": "Cantidad"
+  },
+  "contact": {
+    "title": "Contacto",
+    "intro": "Si requiere más ayuda, nuestros horarios de atención son de lunes a viernes de 8:00 a.m. a 5:00 p.m. y los sábados de 8:00 a.m. a 1:00 p.m. Estaremos encantados de poder servirle dentro de estos horarios establecidos.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "send": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado exitosamente!",
+      "error": "Error al enviar el mensaje. Intente de nuevo."
+    },
+    "hours": {
+      "title": "Horarios de atención",
+      "weekdays": "Lunes – Viernes: 8:00 AM – 5:00 PM",
+      "saturday": "Sábado: 8:00 AM – 1:00 PM"
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "p1": "Nuestra identidad se encuentra reflejada en la dirección de nuestro sitio web, que es: https://carboneljito.com. Este espacio digital ha sido diseñado para ofrecer a nuestros visitantes una experiencia enriquecedora, donde pueden acceder a una variedad de contenidos y servicios que hemos preparado con dedicación.",
+    "p2": "Al dejar comentarios en nuestro sitio, recopilamos los datos que se muestran en el formulario de comentarios, así como la dirección IP del visitante y la cadena de agente de usuario del navegador. Además, es posible que se genere una cadena anonimizada a partir de su dirección de correo electrónico, conocida como hash, que puede enviarse al servicio Gravatar para verificar si está utilizando este servicio.",
+    "p3": "En el caso de que suba imágenes a nuestro sitio, es recomendable que evite cargar aquellas que contengan datos de ubicación incrustados (EXIF GPS). Asimismo, si decide dejar un comentario, tiene la opción de guardar su nombre, dirección de correo electrónico y sitio web en cookies."
+  },
+  "footer": {
+    "company": "Empresa",
+    "quienesSomos": "Quiénes somos",
+    "mision": "Nuestra misión",
+    "contacto": "Contacto",
+    "rights": "Todos los derechos reservados"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "backHome": "Volver al inicio",
+    "currency": "MXN",
+    "quantity": "Cantidad"
+  }
+}

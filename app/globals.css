@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+:root {
+  --brand-black: #0a0a0a;
+  --brand-dark: #111111;
+  --brand-orange: #e85d04;
+  --brand-orange-light: #f48c06;
+  --brand-yellow: #ffd60a;
+  --brand-red: #c1121f;
+}
+
+body {
+  font-family: Inter, sans-serif;
+}
+
+.bg-brand-black {
+  background-color: var(--brand-black);
+}
+
+.bg-brand-dark {
+  background-color: var(--brand-dark);
+}
+
+.bg-brand-orange {
+  background-color: var(--brand-orange);
+}
+
+.bg-brand-orange-light {
+  background-color: var(--brand-orange-light);
+}
+
+.bg-brand-yellow {
+  background-color: var(--brand-yellow);
+}
+
+.text-brand-black {
+  color: var(--brand-black);
+}
+
+.text-brand-orange {
+  color: var(--brand-orange);
+}
+
+.text-brand-yellow {
+  color: var(--brand-yellow);
+}
+
+.border-brand-yellow {
+  border-color: var(--brand-yellow);
+}
+
+.outline-brand-yellow {
+  outline-color: var(--brand-yellow);
+}

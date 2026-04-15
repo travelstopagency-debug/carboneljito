@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "quienesSomos": "About Us",
+    "tienda": "Store",
+    "contacto": "Contact",
+    "politicaPrivacidad": "Privacy Policy",
+    "carrito": "Cart"
+  },
+  "home": {
+    "hero": {
+      "subtitle": "VEGETABLE CHARCOAL",
+      "tagline": "The best quality for your grill"
+    },
+    "retailers": {
+      "title": "Available at:"
+    },
+    "products": {
+      "title": "Our Products",
+      "description": "Carbón El Jito stands out for offering high-quality grilling products, such as charcoal, briquettes, wood chips, fire starters like Ocote, and powerful grill cleaning products, in order to ensure that every grilling experience is exceptional and hassle-free.",
+      "viewProduct": "View product",
+      "addToCart": "Add to cart"
+    },
+    "sales": {
+      "title": "Public Sales",
+      "description": "Carbón El Jito grilling products can be found in supermarkets throughout the country, such as Soriana, AL SUPER, Casa Ley and MercadoLibre. We also offer retail sales at discounted prices. Whether it's an individual or wholesale purchase, you can contact us or visit the following address for direct Carbón El Jito sales points.",
+      "phone": "Phone",
+      "address": "Address",
+      "contact": "Contact Us",
+      "phoneNumber": "8142850579",
+      "addressLine1": "Carretera a Reynosa #216",
+      "addressLine2": "Colonia Nuevo León",
+      "addressLine3": "Guadalupe N.L."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "p1": "Our company specializes in the manufacturing and distribution of wood products, such as vegetable charcoal, mesquite briquettes, mesquite firewood and fire starters like ocote. With over a decade of experience, we have provided our services to various local stores and businesses, as well as national supermarket chains. We pride ourselves on offering the highest quality products to ensure customer satisfaction.",
+    "p2": "The quality of our products is one of our main priorities. We ensure we use top-quality raw materials and follow strict production standards to guarantee excellence in each of our items. Our commitment to quality has allowed us to maintain strong relationships with our customers over the years, and we continue to strive to exceed their expectations at all times.",
+    "p3": "In addition to our dedication to quality, we also strive to offer exceptional service to our customers. Our team is committed to customer care and strives to provide expert advice and personalized solutions to meet the individual needs of each client. We are proud of our reputation as reliable suppliers and are committed to continuing to be leaders in the wood products industry."
+  },
+  "store": {
+    "title": "Store",
+    "searchPlaceholder": "Search products...",
+    "categories": {
+      "all": "All",
+      "carbon": "Charcoal",
+      "briquetas": "Briquettes",
+      "iniciadores": "Starters",
+      "limpieza": "Cleaning"
+    },
+    "addToCart": "Add to cart",
+    "viewDetails": "View details",
+    "noResults": "No products found.",
+    "inStock": "In stock",
+    "outOfStock": "Out of stock",
+    "related": "Related products"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "emptyDesc": "Add products to start your order.",
+    "continueShopping": "Continue shopping",
+    "subtotal": "Subtotal",
+    "orderViaWhatsapp": "Order via WhatsApp",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "If you need further assistance, our business hours are Monday through Friday from 8:00 AM to 5:00 PM and Saturdays from 8:00 AM to 1:00 PM. We will be happy to assist you during these established hours.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again."
+    },
+    "hours": {
+      "title": "Business Hours",
+      "weekdays": "Monday – Friday: 8:00 AM – 5:00 PM",
+      "saturday": "Saturday: 8:00 AM – 1:00 PM"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "p1": "Our identity is reflected in our website address: https://carboneljito.com. This digital space has been designed to offer our visitors an enriching experience, where they can access a variety of content and services we have prepared with dedication.",
+    "p2": "When leaving comments on our site, we collect the data shown in the comments form, as well as the visitor's IP address and browser user agent string. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.",
+    "p3": "If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images. If you leave a comment, you may opt-in to saving your name, email address and website in cookies."
+  },
+  "footer": {
+    "company": "Company",
+    "quienesSomos": "About Us",
+    "mision": "Our Mission",
+    "contacto": "Contact",
+    "rights": "All rights reserved"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "backHome": "Back to home",
+    "currency": "MXN",
+    "quantity": "Quantity"
+  }
+}
