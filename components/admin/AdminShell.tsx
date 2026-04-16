@@ -22,6 +22,14 @@ type Props = {
   children: React.ReactNode;
 };
 
+function AdminLoadingState() {
+  return (
+    <div className="min-h-screen flex items-center justify-center bg-[#0a0a0a]">
+      <p className="text-zinc-400">Loading ERP...</p>
+    </div>
+  );
+}
+
 export default function AdminShell({ title, subtitle, children }: Props) {
   const router = useRouter();
   const pathname = usePathname();
@@ -46,11 +54,7 @@ export default function AdminShell({ title, subtitle, children }: Props) {
   }
 
   if (loading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center bg-[#0a0a0a]">
-        <p className="text-zinc-400">Loading ERP...</p>
-      </div>
-    );
+    return <AdminLoadingState />;
   }
 
   return (

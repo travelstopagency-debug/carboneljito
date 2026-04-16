@@ -16,7 +16,7 @@ Open `http://localhost:3000` and use:
 
 ## Environment variables (`.env.local`)
 
-Create `/home/runner/work/carboneljito/carboneljito/.env.local`:
+Create `.env.local` in the project root:
 
 ```bash
 NEXT_PUBLIC_SUPABASE_URL=https://YOUR_PROJECT.supabase.co
