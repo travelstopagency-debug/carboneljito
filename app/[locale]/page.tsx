@@ -19,7 +19,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         }}
       />
       <HeroSection eyebrow={t('hero.eyebrow')} subtitle={t('hero.subtitle')} />
-      <RetailersStrip />
+      <RetailersStrip retailers={t.raw('retailers.items') as string[]} />
       <ProductsSection title={t('products.title')} products={t.raw('products.items') as string[]} />
     </main>
   );

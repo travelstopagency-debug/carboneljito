@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Product placeholder">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="product4-g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#f5c518"/>
       <stop offset="100%" stop-color="#7a5410"/>
     </linearGradient>
   </defs>
   <rect width="400" height="400" fill="#111"/>
-  <circle cx="200" cy="200" r="150" fill="#1f1f1f" stroke="url(#g)" stroke-width="16"/>
-  <path d="M200 95c-38 32-58 69-58 101 0 42 26 71 58 100 32-29 58-58 58-100 0-32-20-69-58-101z" fill="url(#g)"/>
+  <circle cx="200" cy="200" r="150" fill="#1f1f1f" stroke="url(#product4-g)" stroke-width="16"/>
+  <path d="M200 95c-38 32-58 69-58 101 0 42 26 71 58 100 32-29 58-58 58-100 0-32-20-69-58-101z" fill="url(#product4-g)"/>
 </svg>

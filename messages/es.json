@@ -8,6 +8,9 @@
     "eyebrow": "Calidad premium",
     "subtitle": "Carbón vegetal de alto rendimiento para parrillas, restaurantes y distribuidores."
   },
+  "retailers": {
+    "items": ["Retail Norte", "Mercado Fuego", "Asador Pro", "Distribuciones MX", "Parrilla Center"]
+  },
   "products": {
     "title": "Nuestros productos",
     "items": [

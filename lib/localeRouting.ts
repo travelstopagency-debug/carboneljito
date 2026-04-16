@@ -41,8 +41,8 @@ function resolveRouteKey(pathWithoutLocale: string): MarketingRouteKey | null {
 }
 
 export function getEquivalentLocalePath(pathname: string, targetLocale: AppLocale): string {
-  const [_empty, currentLocale, ...restSegments] = pathname.split('/');
-  const isLocalePrefix = SUPPORTED_LOCALES.includes(currentLocale as AppLocale);
+  const [_empty, localeCandidate, ...restSegments] = pathname.split('/');
+  const isLocalePrefix = SUPPORTED_LOCALES.includes(localeCandidate as AppLocale);
   const pathWithoutLocale = isLocalePrefix ? `/${restSegments.join('/')}` : pathname;
   const routeKey = resolveRouteKey(pathWithoutLocale);
 

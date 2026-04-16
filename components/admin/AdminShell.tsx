@@ -15,6 +15,7 @@ const MODULE_LINKS = [
   { href: '/admin/retailers', label: 'Retailers' },
   { href: '/admin/reports', label: 'Reports' },
 ];
+const ADMIN_BG_CLASS = 'bg-[#0a0a0a]';
 
 type Props = {
   title: string;
@@ -24,7 +25,7 @@ type Props = {
 
 function AdminLoadingState() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-[#0a0a0a]">
+    <div className={`min-h-screen flex items-center justify-center ${ADMIN_BG_CLASS}`}>
       <p className="text-zinc-400">Loading ERP...</p>
     </div>
   );
@@ -58,7 +59,7 @@ export default function AdminShell({ title, subtitle, children }: Props) {
   }
 
   return (
-    <main className="min-h-screen bg-[#0a0a0a] text-zinc-100">
+    <main className={`min-h-screen ${ADMIN_BG_CLASS} text-zinc-100`}>
       <div className="mx-auto flex w-full max-w-7xl gap-6 px-4 py-6 md:px-6 md:py-8">
         <aside className="hidden w-64 shrink-0 rounded-2xl border border-white/10 bg-zinc-950/80 p-5 lg:block">
           <h2 className="text-lg font-bold text-[#f5c518]">Carbón El Jito ERP</h2>

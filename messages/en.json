@@ -8,6 +8,9 @@
     "eyebrow": "Premium quality",
     "subtitle": "High-performance vegetable charcoal for grills, restaurants, and retail partners."
   },
+  "retailers": {
+    "items": ["North Retail", "Fire Market", "Asador Pro", "MX Distribution", "Grill Center"]
+  },
   "products": {
     "title": "Our products",
     "items": [
