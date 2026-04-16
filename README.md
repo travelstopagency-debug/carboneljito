@@ -29,6 +29,7 @@ From the repository root:
 npm run erp:install   # install /erp dependencies
 npm run erp:build     # build ERP into /erp/dist (base: /admin/)
 npm run erp:dev       # run ERP vite dev server directly
+npm run erp:typecheck # optional ERP TypeScript check
 ```
 
 To serve ERP from Next at `/admin/*` in local dev:

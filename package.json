@@ -9,7 +9,8 @@
     "lint": "eslint .",
     "erp:install": "npm --prefix erp install",
     "erp:build": "npm --prefix erp run build",
-    "erp:dev": "npm --prefix erp run dev"
+    "erp:dev": "npm --prefix erp run dev",
+    "erp:typecheck": "npm --prefix erp run type-check"
   },
   "dependencies": {
     "next": "^16.2.3",

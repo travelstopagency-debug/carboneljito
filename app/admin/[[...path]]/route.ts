@@ -47,7 +47,7 @@ export async function GET(request: NextRequest) {
 
   const file = await readFileIfExists(absolutePath);
   if (file) {
-    return new Response(new Uint8Array(file), {
+    return new Response(file as BodyInit, {
       headers: {
         'content-type': contentTypeFor(absolutePath),
         'cache-control': requestedPath === 'index.html' ? 'no-store' : 'public, max-age=31536000, immutable',
@@ -68,7 +68,7 @@ export async function GET(request: NextRequest) {
     );
   }
 
-  return new Response(new Uint8Array(indexFile), {
+  return new Response(indexFile as BodyInit, {
     headers: {
       'content-type': 'text/html; charset=utf-8',
       'cache-control': 'no-store',
