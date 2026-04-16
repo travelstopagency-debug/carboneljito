@@ -1,25 +1,36 @@
 {
   "nav": {
-    "home": "Home",
-    "products": "Products",
-    "contact": "Contact"
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy Policy"
   },
   "hero": {
-    "title": "Carbón El Jito",
-    "subtitle": "Premium Vegetable Charcoal from Mexico",
-    "cta": "View Products"
+    "eyebrow": "Premium quality",
+    "subtitle": "High-performance vegetable charcoal for grills, restaurants, and retail partners."
+  },
+  "retailers": {
+    "items": ["North Retail", "Fire Market", "Asador Pro", "MX Distribution", "Grill Center"]
   },
   "products": {
-    "title": "Our Products",
-    "description": "Premium quality for grills and restaurants"
+    "title": "Our products",
+    "items": [
+      "Premium Charcoal",
+      "Restaurant Charcoal",
+      "Oak Firewood",
+      "Special Briquettes",
+      "Natural Firestarter"
+    ]
   },
-  "sales": {
-    "title": "Public Sales",
-    "address": "Av. Ejemplo 123, Monterrey, NL",
-    "phone": "81 4285 0579",
-    "whatsapp": "Contact via WhatsApp"
+  "about": {
+    "title": "About",
+    "description": "Carbón El Jito is a Mexican company focused on producing and distributing vegetable charcoal with professional standards for quality, safety, and supply reliability."
   },
-  "footer": {
-    "rights": "All rights reserved"
+  "contact": {
+    "title": "Contact",
+    "description": "For sales and distribution, email us at ventas@carboneljito.com or call +52 81 4285 0579. Our commercial team will support you promptly."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "We process contact data for sales and customer support purposes. Personal information is never shared with third parties without explicit authorization from the data owner."
   }
 }

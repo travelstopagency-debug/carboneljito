@@ -1,25 +1,36 @@
 {
   "nav": {
-    "home": "Inicio",
-    "products": "Productos",
-    "contact": "Contacto"
+    "about": "Quiénes somos",
+    "contact": "Contacto",
+    "privacy": "Política de privacidad"
   },
   "hero": {
-    "title": "Carbón El Jito",
-    "subtitle": "Carbón Vegetal Premium de México",
-    "cta": "Ver Productos"
+    "eyebrow": "Calidad premium",
+    "subtitle": "Carbón vegetal de alto rendimiento para parrillas, restaurantes y distribuidores."
+  },
+  "retailers": {
+    "items": ["Retail Norte", "Mercado Fuego", "Asador Pro", "Distribuciones MX", "Parrilla Center"]
   },
   "products": {
-    "title": "Nuestros Productos",
-    "description": "Calidad premium para asadores y restaurantes"
+    "title": "Nuestros productos",
+    "items": [
+      "Carbón Premium",
+      "Carbón Restaurante",
+      "Leña Encino",
+      "Briqueta Especial",
+      "Encendedor Natural"
+    ]
   },
-  "sales": {
-    "title": "Ventas al Público",
-    "address": "Av. Ejemplo 123, Monterrey, NL",
-    "phone": "81 4285 0579",
-    "whatsapp": "Contactar por WhatsApp"
+  "about": {
+    "title": "Quiénes somos",
+    "description": "Carbón El Jito es una empresa mexicana enfocada en producir y distribuir carbón vegetal con estándares profesionales de calidad, seguridad y continuidad de suministro."
   },
-  "footer": {
-    "rights": "Todos los derechos reservados"
+  "contact": {
+    "title": "Contacto",
+    "description": "Para ventas y distribución, escríbenos a ventas@carboneljito.com o llámanos al +52 81 4285 0579. Nuestro equipo comercial te atenderá a la brevedad."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "description": "Tratamos los datos de contacto con fines comerciales y de atención a clientes. No compartimos información personal con terceros sin autorización expresa del titular."
   }
 }
